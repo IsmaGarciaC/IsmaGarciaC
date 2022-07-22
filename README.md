@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ismael García
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on a big blockchain project.
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning Java & Full Stack development.
+- 💞️ I’m looking to work as a programmer from home.
 - 📫 How to reach me melgarciacas@gmail.com
 
 <!---
