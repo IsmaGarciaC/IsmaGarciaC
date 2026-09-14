@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ismael García
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning Java & Full Stack development.
+- 🌱 I’m currently learning Python & Full Stack development.
 - 📫 How to reach me melgarciacas@gmail.com
 
 <!---
