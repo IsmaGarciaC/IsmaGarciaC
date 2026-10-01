@@ -30,7 +30,7 @@ Contact me at: <a href="mailto:melgarciacas@gmail.com">melgarciacas@gmail.com</a
 
 <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Featured Project</h2>
 
-**[VRAIP – Volcanic Risk Advisory & Alert Interpretation Platform](https://github.com/IsmaGarciaC/REPO-NAME)** → Capstone project.  
+**[VRAIP – Volcanic Risk Advisory & Alert Interpretation Platform](https://github.com/IsmaGarciaC/VRAIP_Project)** → Capstone project.  
 A Python web platform that extracts the daily volcanic bulletins (PDF) published by Ecuador's Instituto Geofísico (IG-EPN), structures the data with Pandas and SQLite, classifies activity into four alert levels with a rule-based engine, and uses the Gemini API to turn technical language into clear recommendations for the public. Includes an interactive dashboard built with Streamlit and Plotly.  
 
 <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Skills</h2>
