@@ -70,7 +70,6 @@ A Python web platform that extracts the daily volcanic bulletins (PDF) published
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> GitHub Stats:</h2>  
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=IsmaGarciaC&theme=material-palenight" height="250"/>
   <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaGarciaC&layout=compact&theme=tokyonight&hide_border=false" height="250" />
