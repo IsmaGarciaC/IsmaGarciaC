@@ -67,11 +67,3 @@ A Python web platform that extracts the daily volcanic bulletins (PDF) published
 <a href="https://www.linkedin.com/in/ismael-garciacc/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:melgarciacas@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-
-<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> GitHub Stats:</h2>  
-
-<div align="center">
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaGarciaC&layout=compact&theme=tokyonight&hide_border=false" height="250" />
-</div>
